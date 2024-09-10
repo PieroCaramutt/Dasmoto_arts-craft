@@ -1,0 +1,41 @@
+body{
+    padding: 20px 40px;
+}
+
+header{
+    background-image: url("D:/Portfolio/Dasmoto's Arts & Crafts/images/pattern.jpeg");
+    height: 120px;
+}
+
+header h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: Khaki;
+    text-align: center;
+}
+
+.h-ones{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+[title="brushes"]{
+    background-color:mediumspringgreen ;
+}
+
+[title="frames"]{
+    background-color:lightcoral ;
+}
+
+[title="paint"]{
+    background-color: skyblue;
+}
+.price{
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
